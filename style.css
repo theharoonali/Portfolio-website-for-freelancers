@@ -79,7 +79,11 @@ body{   overflow: hidden;
        -moz-user-select: none; 
         -ms-user-select: none;
             user-select: none;
-    background-color: #1D1D1D;}
+    background-color: #1D1D1D;
+    min-height: 550px !important;
+    min-width: 420px;
+  
+  }
 a{text-decoration: none;}
 .container{
     width: 4rem;
@@ -810,6 +814,7 @@ bottom:-140px;
 }
 .workdetails{
   margin-top: 0px;
+  margin-left: 4%;
 }
 
 }
