@@ -165,5 +165,5 @@ document.addEventListener('DOMContentLoaded', function() {
     var plsClass = document.getElementsByClassName('pls');
     plsClass[0].style.display="none";
 }, false);
-      
-      
+
+
