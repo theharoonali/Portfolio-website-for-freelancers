@@ -38,14 +38,15 @@
     }
 
     .flaticon-twitter:before { content: "\f100"; }
-.flaticon-linkedin:before { content: "\f101"; }
-.flaticon-facebook:before { content: "\f102"; }
-.flaticon-settings:before { content: "\f103"; }
-.flaticon-user:before { content: "\f104"; }
-.flaticon-home:before { content: "\f105"; }
-.flaticon-eye:before { content: "\f106"; }
-.flaticon-rss:before { content: "\f107"; }
-.flaticon-mail:before { content: "\f108"; }
+    .flaticon-linkedin:before { content: "\f101"; }
+    .flaticon-facebook:before { content: "\f102"; }
+    .flaticon-settings:before { content: "\f103"; }
+    .flaticon-user:before { content: "\f104"; }
+    .flaticon-home:before { content: "\f105"; }
+    .flaticon-eye:before { content: "\f106"; }
+    .flaticon-rss:before { content: "\f107"; }
+    .flaticon-mail:before { content: "\f108"; }
+    .flaticon-github:before { content: "\f109"; }
     
     $font-Flaticon-twitter: "\f100";
     $font-Flaticon-linkedin: "\f101";
@@ -56,3 +57,4 @@
     $font-Flaticon-eye: "\f106";
     $font-Flaticon-rss: "\f107";
     $font-Flaticon-mail: "\f108";
+    $font-Flaticon-github: "\f109";
