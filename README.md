@@ -19,4 +19,4 @@ Contact Form: The website includes a contact form through which interested parti
 Customizable with SCSS: The use of SCSS (Sassy CSS) in the project allows for easy customization and maintenance of the styling, making it convenient for freelancers to adapt the design to suit their preferences.
 
 Contributing:
-Contributions to this project are more than welcome! Whether you want to fix bugs, add new features, improve documentation, or enhance the UI, your ideas and contributions will be appreciated. Please follow the guidelines outlined in the CONTRIBUTING.md file to ensure smooth collaboration.
+Contributions to this project are more than welcome! Whether you want to fix bugs, add new features, improve documentation, or enhance the UI, your ideas and contributions will be appreciated.
